@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/Equinox/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.193" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Equinox/app/src/main/res/drawable/background_chat_input.xml" value="0.319" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Equinox/app/src/main/res/drawable/background_info.xml" value="0.193" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Equinox/app/src/main/res/drawable/background_message_received.xml" value="0.319" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Equinox/app/src/main/res/drawable/background_message_sent.xml" value="0.319" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Equinox/app/src/main/res/drawable/background_splash.xml" value="0.319" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Equinox/app/src/main/res/drawable/background_top.xml" value="0.319" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Equinox/app/src/main/res/drawable/ic_info.xml" value="0.319" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Equinox/app/src/main/res/drawable/ic_launcher_background.xml" value="0.319" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Equinox/app/src/main/res/drawable/ic_round_arrow_back_24.xml" value="0.193" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Equinox/app/src/main/res/drawable/ic_send_button.xml" value="0.2675" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Equinox/app/src/main/res/layout/activity_counsellor_chats.xml" value="0.340153452685422" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Equinox/app/src/main/res/layout/activity_cproblems.xml" value="0.3625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Equinox/app/src/main/res/layout/activity_home.xml" value="0.29444444444444445" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Equinox/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Equinox/app/src/main/res/layout/activity_main.xml" value="0.1762917933130699" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Equinox/app/src/main/res/layout/activity_patient_chat.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Equinox/app/src/main/res/layout/activity_patient_chat_list.xml" value="0.3625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Equinox/app/src/main/res/layout/activity_problems.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Equinox/app/src/main/res/layout/activity_register.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Equinox/app/src/main/res/layout/activity_show_info.xml" value="0.3625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Equinox/app/src/main/res/layout/activity_welcome.xml" value="0.3625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Equinox/app/src/main/res/layout/message_received.xml" value="0.3625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Equinox/app/src/main/res/layout/message_sent.xml" value="0.3625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Equinox/app/src/main/res/layout/users.xml" value="0.3625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
